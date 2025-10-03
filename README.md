@@ -23,12 +23,6 @@ A simple and intuitive **React Native audio recorder app** that allows users to 
 
 ---
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
